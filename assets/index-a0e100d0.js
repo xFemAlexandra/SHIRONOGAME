@@ -1,1 +1,0 @@
-import{_ as e,o,c as s}from"./index-251b69e9.js";const r={};function c(n,t){return o(),s("div",null," Aca podras probar sin miedo todos los codigos antes de ponerlos si quieres ")}const d=e(r,[["render",c]]);export{d as default};
